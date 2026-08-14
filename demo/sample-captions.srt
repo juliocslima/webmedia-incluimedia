@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:03,500
+Bem-vindo ao IncluiMedia Studio.
+
+2
+00:00:04,000 --> 00:00:08,000
+Nesta demonstração, criaremos uma experiência de vídeo mais acessível.
+
+3
+00:00:08,500 --> 00:00:12,500
+As legendas podem ser revisadas diretamente na linha de autoria.
+
+4
+00:00:13,000 --> 00:00:17,000
+Também podemos adicionar descrições visuais e capítulos semânticos.

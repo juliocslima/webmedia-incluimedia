@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-12T12:00:00.000Z",
+  "session": {
+    "startedAt": "2026-08-12T11:55:00.000Z",
+    "durationMs": 300000,
+    "durationSeconds": 300,
+    "baselineCapturedAt": "2026-08-12T11:55:00.000Z"
+  },
+  "before": {
+    "score": 38,
+    "captionCoveragePercent": 21,
+    "issueCount": 12
+  },
+  "after": {
+    "score": 87,
+    "captionCoveragePercent": 94,
+    "issueCount": 2
+  },
+  "delta": {
+    "scorePoints": 49,
+    "captionCoveragePercentagePoints": 73,
+    "issues": -10
+  },
+  "assistance": {
+    "accepted": 23,
+    "rejected": 5,
+    "reviewed": 28,
+    "acceptanceRatePercent": 82.14,
+    "pendingSuggestions": 0
+  },
+  "processing": {
+    "audioAnalysisMs": 4000,
+    "asrMs": 31000,
+    "totalProcessingMs": 35000,
+    "realTimeFactor": 0.175,
+    "videoDurationSeconds": 200
+  },
+  "interpretation": {
+    "note": "Illustrative schema example; values are not experimental results from a real participant session."
+  }
+}
